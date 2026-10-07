@@ -1,0 +1,1 @@
+el dueño de una microfinanza que necesita tener automatizado la generacion de inteeres y cuotas para ahorrase mucho trabajo, y generer reportes y recuerdos de deudores.

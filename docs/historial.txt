@@ -1,0 +1,500 @@
+   12  Don't stop 'til you get enough
+   13  Sigue con la fuerza, no pares (sigue, sí)
+   14  Keep on with the force, don't stop (keep on, yeah)
+   15  No pares hasta que tengas suficiente
+   16  Don't stop 'til you get enough
+   17  Sigue con la fuerza, no pares (sí)
+   18  Keep on with the force, don't stop (yeah)
+   19  No pares hasta que tengas suficiente
+   20  Don't stop 'til you get enough
+   21  Sigue con la fuerza, no pares (sigue, cariño)
+   22  Keep on with the force, don't stop (keep on, baby)
+   23  No pares hasta que tengas suficiente
+   24  Don't stop 'til you get enough
+   25  Sigue con la fuerza, no pares (no pares hasta que tengas suficiente)
+   26  Keep on with the force, don't stop (don't 'til you get enough)
+   27  No pares hasta que tengas suficiente
+   28  Don't stop 'til you get enough
+   29  Sigue con la fuerza, no pares
+   30  Keep on with the force, don't stop
+   31  No pares hasta que tengas suficiente
+   32  Don't stop 'til you get enough
+   33  Sigue con la fuerza, no pares (siegue, cielo)
+   34  Keep on with the force, don't stop (keep on, darlin')
+   35  No pares hasta que tengas suficiente
+   36  Don't stop 'til you get enough
+   37  Sigue con la fuerza, no pares (bien, sí)
+   38  Keep on with the force, don't stop (alright, yeah)
+   39  No pares hasta que tengas suficiente
+   40  Don't stop 'til you get enough
+   41  Sigue con la fuerza, no pares (siegue, cariño)
+   42  Keep on with the force, don't stop (keep on, baby)
+   43  No pares hasta que tengas suficiente
+   44  Don't stop 'til you get enough" > get_enough.txt
+   45  code get_enough.txt
+   46  clear
+   47  ls
+   48  mv get_enough.txt the_best.txt
+   49  ls
+   50  git mv album1 the_best_album
+   51  mv album1 the_best_album/
+   52  js
+   53  ls
+   54  mv the_best.txt get_enough.txt
+   55  ls
+   56  mv the_best_album album1
+   57  ls
+   58  clear
+   59  touch poor.txt
+   60  ls
+   61  rm poor.txt
+   62  ls
+   63  clear
+   64  git init
+   65  git status
+   66  git add . ->
+   67  git add .->
+   68  git add .
+   69  git status
+   70  cd ..
+   71  cd ..
+   72  cd ..
+   73  git init
+   74  git status
+   75  git add .
+   76  git status
+   77  git add .
+   78  git add COMANDOS_GIT.txt
+   79  git add album_musical/
+   80  git add album_musical
+   81  git status
+   82  git add .
+   83  git add album_musical
+   84  git status
+   85  git add .
+   86  git status
+   87  clear
+   88  git config --global user.email
+   89  git config --global user.name
+   90  git config --global system
+   91  cd
+   92  cd c:/
+   93  cd Users:/
+   94  Users
+   95  cd Users
+   96  cd onedirve
+   97  cd OneDrive
+   98  cd JHAN_
+   99  cd JHAN_
+  100  cd JHAN_
+  101  cd [200~JHAN_\OneDrive\Escritorio\SANTIAGO~
+  102  cd --
+  103  cd c:/
+  104  cd users
+  105  cd JHAN_
+  106  cd OneDrive
+  107  cd Escritorio
+  108  cd SANTIAGO
+  109  cd GIT
+  110  git status
+  111  ls
+  112  git commit -m "agrego caciones u estructuras al album"
+  113  git add .
+  114  git status
+  115  git commit -m "agrego caciones u estructuras al album"
+  116  git log
+  117  git log --oneline
+  118  git rm --cached ww.txt
+  119  git log --oneline
+  120  git show f65f1
+  121  cat ww.txt
+  122  git commit
+  123  git log --oneline
+  124  git commi -m "se agregaron dos estrofas"
+  125  git commit -m "se agregaron dos estrofas"
+  126  ls
+  127  git status
+  128  git add .
+  129  git status
+  130  git log
+  131  git log --oneline
+  132  git show d4880
+  133  git blame ww.txt
+  134  git log --oneline
+  135  git show 220c6
+  136  git blame ww.txt
+  137  git show 220c6
+  138  git add .
+  139  git status
+  140  git show 220c6
+  141  git blame ww.txt
+  142  git commit -m "se agregaron 2 estrofas mas"
+  143  git log
+  144  git log --oneline
+  145  git show b05cd
+  146  git blame ww.txt
+  147  echo "quitate el polvo" >> ww.txt
+  148  git show b05cd5
+  149  cat ww.txt
+  150  git commit -m "se agrego la 6° estrofa"
+  151  git add .
+  152  git show b05cd5
+  153  git commit -m "vamos mas "
+  154  git log
+  155  git log --oneline
+  156  git show 3d9db
+  157  git blame 3d9db
+  158  git blame ww.txt
+  159  cd c:/
+  160  cd users
+  161  cd JHAN_
+  162  CD ONEDRIVE
+  163  cd onedrive
+  164  ce Escritotio
+  165  cd Escritorio
+  166  cd SANTIAGO
+  167  cd GIT
+  168  cd status
+  169  git status
+  170  git add .
+  171  git status
+  172  clear
+  173  git log
+  174  git log --oneline
+  175  git show ww.txt
+  176  git blame 3d9db
+  177  git blame ww.txt
+  178  git status
+  179  git commit -m "quitate el polvo"
+  180  git show 3d9db
+  181  git log
+  182  git log -oneline
+  183  git log --oneline
+  184  git show ff25d
+  185  git blame ww.txt
+  186  git branch
+  187  git branch rama-gian_carlo
+  188  git branch
+  189  git switch rama-gian_carlo
+  190  git status
+  191  git commit m- "la rama nueva"
+  192  git add .
+  193  git status
+  194  git commit m- "la rama nueva"
+  195  git commit -m "la rama nueva"
+  196  git branch
+  197  git switch rama-master
+  198  git switch master
+  199  git switch rama-gian_carlo
+  200  git add .
+  201  git commit -m "la rama nueva 2"
+  202  git status
+  203  git switch master
+  204  git status
+  205  git add .
+  206  git status
+  207  git commit -m "branches"
+  208  git log
+  209  git log --oneline
+  210  cd c:/
+  211  cd users
+  212  cd JHAN_
+  213  dir
+  214  cd onedrive
+  215  cd c:/
+  216  cd users
+  217  cd JHAN_
+  218  cd OneDrive
+  219  cd Escritotio
+  220  cd escritorio
+  221  cd GIT
+  222  cd SANTIAGO
+  223  cd GIT
+  224  clear
+  225  git log --oneline
+  226  git diff bbe91 f65f1
+  227  git branch
+  228  git switch master
+  229  git add.
+  230  git add
+  231  git add .
+  232  git commit
+  233  git commit -m "se guardo 19-08-2026"
+  234  git switch master
+  235  git add .
+  236  clear
+  237  touch GIT/index.html
+  238  clear
+  239  git init
+  240  clear
+  241  touch index.html
+  242  ls
+  243  echo "<h1>Bienvenidos</h1>" >index.html
+  244  cat index.html
+  245  touch style.css
+  246  ls
+  247  echo "/*Estilos Principales*/" >style.css
+  248  cat style.css
+  249  git init
+  250  git add index.html
+  251  git status
+  252  clear
+  253  git commit -m "feat(core):añadir index.html base"
+  254  echo "<h1>Bienvenidos a mi Super Proyecto</h1>" >index.html
+  255  cat index.html
+  256  git diff index.html
+  257  git commit -a -m "fix(core): actualizar titulo principal. (Nota: style.css aún debería estar como untracked, ¡no lo subas!)"
+  258  git status
+  259  clear
+  260  cd c:/
+  261  cd users
+  262  cd JHAN_
+  263  cd onedrive
+  264  cd escritorio
+  265  cd SANTIAGO
+  266  cd GIT
+  267  git branch
+  268  git switch rama-gian_carlo
+  269  git switch master
+  270  git switch master
+  271  git add .
+  272  git switch master
+  273  git commit -m "ya hp"
+  274  git switch master
+  275  git status
+  276  git commit -m "comando merge"
+  277  git status
+  278  git add .
+  279  git commit -m "comando merge"
+  280  git log
+  281  git status
+  282  cd c:/
+  283  cd users
+  284  cd onedrive
+  285  cd JHAN_
+  286  cd onedrive
+  287  cd escritorio
+  288  cd SANTIAGO
+  289  cd GIT
+  290  git branch
+  291  clear
+  292  git switch -c feature-contacto
+  293  echo "<p>Contacto: email@test.com</p>" >> index.html
+  294  git switch master
+  295  git switch feature-contacto
+  296  git commit -a -m "se agrego contacto email en index.html"
+  297  git switch master
+  298  git switch feature-contacto
+  299  echo "<p>Contacto: email@test.com</p>" > index.html
+  300  git commit -a -m "esta si es la linea"
+  301  clear
+  302  git switch master
+  303  echo "<p>Siguenos en redes sociales</p>" > index.html
+  304  git merge feature-contacto
+  305  git branch
+  306  git commit -a -m "se agrego redes sociales"
+  307  git merge feature-contacto
+  308  git add .
+  309  git commit -m "todos los cambios actualizados la rama feature no sirve ya"
+  310  git brach -d feature-contacto
+  311  clear
+  312  git branch -d feature-contacto
+  313  git branch
+  314  cd c:/
+  315  cd users
+  316  cd JHAN_
+  317  cd onedrive
+  318  cd escritorio
+  319  cd SANTIAGO
+  320  cd GIT
+  321  git add .
+  322  git commit -m "se creo un gitignore"
+  323  git status
+  324  git add .
+  325  git commit -m ".env"
+  326  git remote add origin https://github.com/jhanm403-spec/ClaseGitSantiago.git
+  327  git branch -M main
+  328  git push -u origin main
+  329  git  remote -v
+  330  clear
+  331  cd ..
+  332  cd ..
+  333  cd PROYECTO
+  334  git init
+  335  git status
+  336  git branch -m main
+  337  git status
+  338  git add ..
+  339  git add .
+  340  clear
+  341  git commit -m "este es el commit para los archivos ignorados"
+  342  git remote add origin https://github.com/jhanm403-spec/git_ignore.git
+  343  git push -u origin main
+  344  git push origin main --force
+  345  git remote -v
+  346  cd c:\
+  347  cd users
+  348  cd JHAN_
+  349  cd onedrive
+  350  cd escritorio
+  351  cd SANTIAGO
+  352  cd GIT
+  353  git add .
+  354  git commit m- "fin clase git"
+  355  git commi -m "fin clase git"
+  356  git commit -m "fin clase git"
+  357  clear
+  358  cd ..
+  359  cd practicaGit
+  360  git init
+  361  git remote add origin https://github.com/sanye587-cr7/practica-canci-n.git
+  362  git branch -M master main
+  363  git pull origin main
+  364  git swicth -c gianCarlo
+  365  git switch -c gianCarlo
+  366  git pull
+  367  clear
+  368  git pull
+  369  git add .
+  370  git commit -m "esto lo hizo jhan"
+  371  git merge
+  372  git merge main
+  373  git push
+  374  git push main
+  375  git push -u origin main
+  376  clear
+  377  git push
+  378  git merge main
+  379  git push main
+  380  git add .
+  381  git commit -m "jhan hizo esto"
+  382  git push
+  383  git remote add origin https://github.com/sanye587-cr7/practica-canci-n.git
+  384  git push
+  385  git merge main
+  386  git pull
+  387  clear
+  388  git push --force
+  389  git push --set-upstream origin giancarlo
+  390  clear
+  391  git push
+  392  git push.autosetupremote
+  393  clear
+  394  git status
+  395  git commit -m "hp"
+  396  git add .
+  397  git commit -m "hp"
+  398  ls
+  399  cd ..
+  400  cd ..
+  401  cd practicaGit
+  402  git init
+  403  git remote add origin https://github.com/sanye587-cr7/ejemplo-cancion-2.git
+  404  git branch -M master main
+  405  git pull origin main
+  406  git switch -c jhan
+  407  git commit -a -m "jhan lo hizo"
+  408  git switch main
+  409  git merge jhan
+  410  git push origin main
+  411  git pull origin main
+  412  git status
+  413  git pull origin main
+  414  git init
+  415  cd c:\
+  416  cd users
+  417  cd JHAN_
+  418  git onedrive
+  419  cd onedrive
+  420  cd escritorio
+  421  cd practica
+  422  git init
+  423  git remote add origin https://github.com/sanye587-cr7/ejemplo-cancion-2.git
+  424  git branch -M master main
+  425  git pull origin main
+  426  git switch -c jhan
+  427  git commit -a -m "jhan lo hizo"
+  428  git switch main
+  429  git merge jhan
+  430  git push origin main
+  431  git pull origin main
+  432  cd c:\
+  433  git users
+  434  cd users
+  435  cd JHAN_
+  436  cd onedrive
+  437  cd escritorio
+  438  cd gitpra
+  439  git init
+  440  git remote add origin https://github.com/sanye587-cr7/ejemplo-cancion-2.git
+  441  git branch -M master main
+  442  git pull origin main
+  443  git pull origin main
+  444  git switch -c jhan
+  445  git commit -a -m "jhan lo hizo"
+  446  git swicth main
+  447  git switch main
+  448  git merge jhan
+  449  git push origin main
+  450  git pull origin main
+  451  git status
+  452  git add .
+  453  cd c
+  454  cd c:
+  455  cd usera
+  456  cd users
+  457  cd JHAN_
+  458  cd onedrive
+  459  cd escritorio
+  460  cd practica
+  461  git init
+  462  git remote add origin https://github.com/sanye587-cr7/ejemplo-cancion-2.git
+  463  git branch -M master main
+  464  git pull origin main
+  465  git pull origin main
+  466  git switch -c jhan
+  467  git commit add .
+  468  git add .
+  469  git commit -m "jhan lo hizo"
+  470  git switch main
+  471  git merge jhan
+  472  git push origin main
+  473  git pull origin main
+  474  cd c:/
+  475  cd -
+  476  cd d:/
+  477  mkdir mi_app
+  478  ls
+  479  cd mi_app
+  480  git init
+  481  git branch -m main
+  482  touch README.md
+  483  ls
+  484  touch .gitignore
+  485  ls
+  486  mkdir docs
+  487  ls
+  488  cd docs
+  489  touch idea.md
+  490  touch estructura.txt
+  491  touch historial.txt
+  492  ls
+  493  cd -
+  494  mkdir src
+  495  cd src
+  496  touch app.py
+  497  ls
+  498  git config user.email
+  499  git config user.name
+  500  cd -
+  501  git status
+  502  git commit -m "docs: estructura de las carpetas del proyecto organizado"
+  503  git status
+  504  git add . 
+  505  git status
+  506  git commit -m "docs: estructura de las carpetas del proyecto organizado"
+  507  git status
+  508  git add .
+  509  git commit -m "docs: se agrego titulo al README"
+  510  ls -R > docs/estructura.txt
+  511  history > docs/historial.txt
